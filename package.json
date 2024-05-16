@@ -1,6 +1,6 @@
 {
   "name": "brownout.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Experience the power outage",
   "main": "brownout.js",
   "scripts": {
@@ -12,5 +12,9 @@
     "albay"
   ],
   "author": "ojintoji",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinbalaguer/brownout.js.git"
+  }
 }
