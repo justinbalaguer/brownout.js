@@ -1,0 +1,16 @@
+{
+  "name": "brownout.js",
+  "version": "1.0.0",
+  "description": "Experience the power outage",
+  "main": "brownout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brownout",
+    "ALECO",
+    "albay"
+  ],
+  "author": "ojintoji",
+  "license": "MIT"
+}
