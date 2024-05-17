@@ -1,4 +1,4 @@
-function brownout () {
+module.exports = function brownout () {
   document.body.style.backgroundColor = "black";
   document.body.style.color = "black";
   const elements = document.body.getElementsByTagName("*");
